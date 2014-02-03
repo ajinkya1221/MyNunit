@@ -1,0 +1,21 @@
+D:\Myunite\Testcases\Tests\Tests\bin\Debug\Tests.dll
+D:\Myunite\Testcases\Tests\Tests\bin\Debug\Tests.pdb
+D:\Myunite\Testcases\Tests\Tests\bin\Debug\MyUnit.CustomAttributes.dll
+D:\Myunite\Testcases\Tests\Tests\bin\Debug\MyUnit.CustomAttributes.pdb
+D:\Myunite\Testcases\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Myunite\Testcases\Tests\Tests\obj\Debug\Tests.dll
+D:\Myunite\Testcases\Tests\Tests\obj\Debug\Tests.pdb
+D:\pdhokchaule\Myunite (NUnite)\Testcases\Tests\Tests\bin\Debug\Tests.dll
+D:\pdhokchaule\Myunite (NUnite)\Testcases\Tests\Tests\bin\Debug\Tests.pdb
+D:\pdhokchaule\Myunite (NUnite)\Testcases\Tests\Tests\bin\Debug\MyUnit.CustomAttributes.dll
+D:\pdhokchaule\Myunite (NUnite)\Testcases\Tests\Tests\bin\Debug\MyUnit.CustomAttributes.pdb
+D:\pdhokchaule\Myunite (NUnite)\Testcases\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\pdhokchaule\Myunite (NUnite)\Testcases\Tests\Tests\obj\Debug\Tests.dll
+D:\pdhokchaule\Myunite (NUnite)\Testcases\Tests\Tests\obj\Debug\Tests.pdb
+D:\Myunite (NUnite)\MyUnit\Tests\Tests\bin\Debug\Tests.dll
+D:\Myunite (NUnite)\MyUnit\Tests\Tests\bin\Debug\Tests.pdb
+D:\Myunite (NUnite)\MyUnit\Tests\Tests\bin\Debug\MyUnit.CustomAttributes.dll
+D:\Myunite (NUnite)\MyUnit\Tests\Tests\bin\Debug\MyUnit.CustomAttributes.pdb
+D:\Myunite (NUnite)\MyUnit\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Myunite (NUnite)\MyUnit\Tests\Tests\obj\Debug\Tests.dll
+D:\Myunite (NUnite)\MyUnit\Tests\Tests\obj\Debug\Tests.pdb

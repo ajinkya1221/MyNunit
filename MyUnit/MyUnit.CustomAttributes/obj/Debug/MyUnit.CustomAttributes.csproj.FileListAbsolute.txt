@@ -1,0 +1,10 @@
+D:\Myunite\MyUnit\MyUnit.CustomAttributes\bin\Debug\MyUnit.CustomAttributes.dll
+D:\Myunite\MyUnit\MyUnit.CustomAttributes\bin\Debug\MyUnit.CustomAttributes.pdb
+D:\Myunite\MyUnit\MyUnit.CustomAttributes\obj\Debug\MyUnit.CustomAttributes.csprojResolveAssemblyReference.cache
+D:\Myunite\MyUnit\MyUnit.CustomAttributes\obj\Debug\MyUnit.CustomAttributes.dll
+D:\Myunite\MyUnit\MyUnit.CustomAttributes\obj\Debug\MyUnit.CustomAttributes.pdb
+D:\Myunite (NUnite)\MyUnit\MyUnit.CustomAttributes\bin\Debug\MyUnit.CustomAttributes.dll
+D:\Myunite (NUnite)\MyUnit\MyUnit.CustomAttributes\bin\Debug\MyUnit.CustomAttributes.pdb
+D:\Myunite (NUnite)\MyUnit\MyUnit.CustomAttributes\obj\Debug\MyUnit.CustomAttributes.csprojResolveAssemblyReference.cache
+D:\Myunite (NUnite)\MyUnit\MyUnit.CustomAttributes\obj\Debug\MyUnit.CustomAttributes.dll
+D:\Myunite (NUnite)\MyUnit\MyUnit.CustomAttributes\obj\Debug\MyUnit.CustomAttributes.pdb
